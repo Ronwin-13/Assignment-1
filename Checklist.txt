@@ -1,0 +1,6 @@
+Cordeta, Ronwin Maynard O. 2022-04240
+python version = 3.11.9
+venv active = (.venv) PS C:\Users\Admin\school\django>
+Django version = 5.2.6
+Runserver working = Starting development server at http://127.0.0.1:8000/
+git set remote = origin
